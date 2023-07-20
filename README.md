@@ -1,1 +1,2 @@
-# IoT-based-restroom-occupancy-detector
+# IoT-based restroom occupancy detector
+
