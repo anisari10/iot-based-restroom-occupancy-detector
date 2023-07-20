@@ -1,9 +1,9 @@
 <?php
 // Replace with your database credentials
-$servername = "sdb-u.hosting.stackcp.net";
-$username = "admin-b384";
-$password = "anir1234";
-$dbname = "restrooms-323131127b";
+$servername = "********";
+$username = "********";
+$password = "********";
+$dbname = "********";
 
 // set sum thresholds
 $threshold = 475;
