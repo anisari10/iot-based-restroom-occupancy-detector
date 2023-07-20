@@ -1,11 +1,11 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-// const char* ssid = "Galaxy M514B3F";
-// const char* password = "obxh50010";
-const char* ssid = "IIST-BTECH-3Y";
-const char* password = "iistbtech3y";
-const char* serverUrl = "http://bathroomoccupancy-com.stackstaging.com/multi_data_recv_2.php";
+// const char* ssid = "********";
+// const char* password = "********";
+const char* ssid = "********";
+const char* password = "********";
+const char* serverUrl = "http://********";
 
 const int touchPin = 13; 
 const int ledPin = 2;
